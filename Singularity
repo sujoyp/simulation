@@ -3,7 +3,7 @@ From: sujoyp/cuda-9.0-base-simu
 
 %post
 
-    % OGRE
+    # OGRE
     mkdir workspace
     cd workspace
     mkdir 3rd_party
